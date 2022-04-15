@@ -1,3 +1,7 @@
+# Project Description
+
+This project was a tutorial to create a tik tok clone app using React and host it on Netlify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
